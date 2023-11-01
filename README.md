@@ -5,8 +5,8 @@
 ## 👁️‍🗨️ Visitor Count:    <img height="30px" Width="290px" src="https://profile-counter.glitch.me/Idk-WhatToWrite/count.svg">
 
 ## My infomation
-- 📫 Contact me: <a href="https://www.facebook.com/sahl.2026/">Hoang Truong</a>
-- 😄 Nickname: cr4zy80t
+- 📫 Contact me: <a href="https://www.facebook.com/crazyz0mb0ss/">Facebook</a>
+- 😄 Nickname: crazyz0mb0ss
 <br>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
