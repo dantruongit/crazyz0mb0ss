@@ -2,7 +2,7 @@
 
 <h1>### Hi there 👋</h1>
 
-## 👁️‍🗨️ Visitor Count:    <img height="30px" Width="290px" src="https://profile-counter.glitch.me/Idk-WhatToWrite/count.svg">
+## 👁️‍🗨️ Visitor Count:    <img height="30px" Width="290px" src="https://profile-counter.glitch.me/crazyz0mb0ss/count.svg">
 
 ## My infomation
 - 📫 Contact me: <a href="https://www.facebook.com/crazyz0mb0ss/">Facebook</a>
@@ -31,7 +31,7 @@
  
 <h2>Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px"></h2>
  
-<a align="center" href="https://github.com/Idk-WhatToWrite">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Idk-WhatToWrite&layout=compact&langs_count=8&theme=algolia">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Idk-WhatToWrite&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" align="left">
+<a align="center" href="https://github.com/crazyz0mb0ss">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=crazyz0mb0ss&layout=compact&langs_count=8&theme=algolia">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=crazyz0mb0ss&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" align="left">
  </a>
